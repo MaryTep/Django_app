@@ -1,0 +1,36 @@
+{% extends 'shopapp/base.html' %}
+
+{% block title %}
+    Articles List
+{% endblock %}
+
+{% block body %}
+        {{ '<h1>Articles:</h1>'}}
+    <div>
+        {% if not object_list %}
+            <h3>No articles yet</h3>
+        {% else %}
+            <ul>
+                {% for article in object_list %}
+                    <div>
+                        <h1>Article #{{ article.pk }} detail</h1>
+                        <p>Author: {{ article.author.name }} </p>
+                        <p>Title: {{ article.title }} </p>
+                        <p>Date of publication: {{ article.pub_date }}</p>
+                        <p>category: {{ article.category.name }}</p>
+                        <div>
+                            Tags:
+                            <ul>
+                                {% for tag in article.tags.all %}
+                                    <li>{{ tag.name }}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+    <br>
+
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+    Update Avatar
+{% endblock %}
+
+{% block body %}
+    {{ '<h1>Update Profile:</h1>'}}
+
+    <div>
+        <form method="post" enctype="multipart/form-data">
+
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Update</button>
+        </form>
+    </div>
+
+    <br>
+    <div>
+        <a href="{% url 'accounts:about_user' pk=user.pk %}">
+            Back to info about user</a>
+    </div>
+{% endblock %}
+

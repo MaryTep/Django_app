@@ -1,0 +1,38 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+    About me
+{% endblock %}
+
+{% block body %}
+    <h1>User info</h1>
+    {% if user.is_authenticated %}
+        <h2>Detail</h2>
+        <p>Username: {{ user.username }}</p>
+        <p>First name: {{ user.first_name }}</p>
+        <p>Last name: {{ user.last_name }}</p>
+        <p>Email: {{ user.email }}</p>
+        <p>Bio: {{ user.profile.bio }}</p>
+        {% if user.profile.avatar %}
+            <h3>Аватар</h3>
+            <img src="{{ user.profile.avatar.url }}" alt="{{ user.profile.avatar.name }}">
+        {% else %}
+            <div>No avatar yet
+            </div>
+        {% endif %}
+        <form method="post" enctype="multipart/form-data">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit">Update</button>
+        </form>
+
+    {% else %}
+        <h2>User is anonymous</h2>
+    {% endif %}
+
+    <div>
+        <br>
+        <a href="{% url 'accounts:users_list' %}">Users list</a>
+    </div>
+
+{% endblock %}

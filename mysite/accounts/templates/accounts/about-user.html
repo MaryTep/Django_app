@@ -1,0 +1,41 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+    About user
+{% endblock %}
+
+{% block body %}
+    <h1>User info</h1>
+    {% if user.is_authenticated  %}
+        <h2>Detail</h2>
+        <p>Username: {{ user.username }}</p>
+        <p>First name: {{ user.first_name }}</p>
+        <p>Last name: {{ user.last_name }}</p>
+        <p>Email: {{ user.email }}</p>
+        <p>Bio: {{ user.profile.bio }}</p>
+        <h3>Avatar</h3>
+        <div>
+            {% if user.profile.avatar %}
+                <img src="{{ user.profile.avatar.url }}" alt="{{ user.profile.avatar.name }}">
+            {% else %}
+                <div>No avatar yet
+                </div>
+            {% endif %}
+            {% if request.user.is_staff or user == request.user %}
+                <div>
+                    <a href="{% url 'accounts:profile_update_form' pk=user.pk %}">Update profile</a>
+                </div>
+            {% endif %}
+        </div>
+
+
+    {% else %}
+        <h2>User is anonymous</h2>
+    {% endif %}
+
+    <div>
+        <br>
+        <a href="{% url 'accounts:users_list' %}">Back to users list</a>
+    </div>
+
+{% endblock %}

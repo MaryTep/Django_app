@@ -1,0 +1,2069 @@
+2024-10-05 12:52:32,485 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/mysite/settings.py changed, reloading.
+2024-10-05 12:52:33,806 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-05 13:01:57,118 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/dateformat.py changed, reloading.
+2024-10-05 13:01:57,954 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-05 13:03:08,963 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/__init__.py changed, reloading.
+2024-10-05 13:16:28,100 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-05 13:17:11,361 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/mysite/settings.py changed, reloading.
+2024-10-05 13:17:11,842 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:12:13,574 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:12:36,062 [WARNING] django.request Not Found: /
+2024-10-06 05:13:49,758 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:13:51,326 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:16:47,767 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:16:49,579 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:19:13,345 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:19:14,445 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:21:36,134 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:21:36,793 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:26:37,706 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:26:38,320 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:32:17,466 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:32:18,973 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:38:13,480 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:38:14,289 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:39:12,263 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:39:12,809 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:39:43,631 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:39:44,027 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 05:42:45,112 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/logging/mysite/blogapp/admin.py changed, reloading.
+2024-10-06 05:42:45,669 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 15:29:04,990 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 15:32:35,332 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 15:35:48,580 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-06 15:35:54,971 [WARNING] django.request Not Found: /
+2024-10-06 15:36:01,346 [WARNING] django.request Not Found: /accounts/
+2024-10-24 07:44:47,623 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 07:45:00,946 [WARNING] django.request Not Found: /
+2024-10-24 07:45:00,955 [WARNING] django.request Not Found: /
+2024-10-24 07:45:01,015 [WARNING] django.request Not Found: /
+2024-10-24 07:45:01,668 [WARNING] django.request Not Found: /
+2024-10-24 16:12:23,852 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 16:12:25,674 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 16:12:36,627 [WARNING] django.request Not Found: /
+2024-10-24 16:12:56,211 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 176, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/base.py", line 33, in render
+    return super().render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/library.py", line 215, in render
+    _dict = self.func(*resolved_args, **resolved_kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/admin/templatetags/admin_modify.py", line 52, in submit_row
+    add = context['add']
+          ~~~~~~~^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/context.py", line 83, in __getitem__
+    raise KeyError(key)
+KeyError: 'add'
+2024-10-24 16:14:26,470 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 176, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 153, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/test/utils.py", line 101, in instrumented_test_render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 978, in render
+    node.render_annotated(context) for node in self
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 938, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'import_products_csv' not found. 'import_products_csv' is not a valid view function or pattern name.
+2024-10-24 16:21:25,796 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 16:21:28,070 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 16:25:00,454 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:25:57,355 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:26:05,891 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:26:11,388 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:26:47,094 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:26:53,699 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: admin/csv_form.html
+2024-10-24 16:30:27,209 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 16:30:29,383 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 16:31:33,311 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 500, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'crfs_token'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 79, in import_csv
+    return render(request, "admin/csv_form.html", context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/engine.py", line 163, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/engine.py", line 145, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loaders/base.py", line 29, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 199, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 284, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 222, in do_block
+    nodelist = parser.parse(('endblock',))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 502, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 552, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'crfs_token', expected 'endblock'. Did you forget to register or load this tag?
+2024-10-24 16:43:47,844 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 16:43:50,758 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 16:45:30,813 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 16:45:34,285 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 17:00:34,101 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 17:00:40,758 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 17:01:42,890 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-24 17:01:46,488 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-24 17:08:50,985 [ERROR] django.request Internal Server Error: /ru/admin/shopapp/product/import-products-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 100, in import_csv
+    Product.objects.bulk_create(products)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 519, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 1318, in _batched_insert
+    inserted_rows.extend(self._insert(
+                         ^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 1301, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1441, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 247, in execute
+    return self._record(self.cursor.execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 168, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 99, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 80, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_product.created_by_id
+2024-10-24 17:15:59,040 [WARNING] django.request Not Found: /favicon.ico
+2024-10-24 17:28:07,175 [WARNING] django.request Not Found: /favicon.ico
+2024-10-25 07:21:16,149 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 07:21:24,547 [WARNING] django.request Not Found: /
+2024-10-25 07:33:56,124 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-25 07:33:57,380 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 07:47:53,926 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-25 07:47:54,563 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 07:49:06,245 [WARNING] django.request Method Not Allowed: /ru/shop/api/products/upload_csv/
+2024-10-25 14:28:24,730 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/mysite/settings.py changed, reloading.
+2024-10-25 14:28:25,716 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:33:42,713 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/models.py changed, reloading.
+2024-10-25 14:33:45,304 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:37:15,989 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/models.py changed, reloading.
+2024-10-25 14:37:16,363 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:49:44,662 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/urls.py changed, reloading.
+2024-10-25 14:49:45,223 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:50:19,066 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:51:23,299 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 14:51:33,622 [WARNING] django.request Not Found: /
+2024-10-25 14:52:49,801 [WARNING] django.request Not Found: /blog/articles/
+2024-10-25 14:53:13,225 [ERROR] django.request Internal Server Error: /myblogapi/articles/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myblogapp/article_list.html
+2024-10-25 15:11:33,140 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:11:37,692 [ERROR] django.request Internal Server Error: /myblogapi/articles/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 500, in parse
+    compile_func = self.tags[command]
+                   ~~~~~~~~~^^^^^^^^^
+KeyError: 'myblogapp:article'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/backends/django.py", line 34, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/engine.py", line 163, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/engine.py", line 145, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loaders/base.py", line 29, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 199, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 284, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 222, in do_block
+    nodelist = parser.parse(('endblock',))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 905, in do_if
+    nodelist = parser.parse(('elif', 'else', 'endif'))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 508, in parse
+    raise self.error(token, e)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 506, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/defaulttags.py", line 810, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 502, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/base.py", line 552, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 14: 'myblogapp:article', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+2024-10-25 15:15:02,664 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:18:40,210 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/admin.py changed, reloading.
+2024-10-25 15:18:40,609 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:22:24,049 [ERROR] django.request Internal Server Error: /myblogapi/articles/1/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 204, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 105, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/template/loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myblogapp/article_detail.html
+2024-10-25 15:26:44,501 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:29:52,426 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:42:23,640 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/views.py changed, reloading.
+2024-10-25 15:42:24,802 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:46:43,285 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/views.py changed, reloading.
+2024-10-25 15:46:43,632 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:48:06,071 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/urls.py changed, reloading.
+2024-10-25 15:48:06,423 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-25 15:48:37,083 [WARNING] django.request Not Found: /articles/latest/feed/
+2024-10-25 15:48:50,876 [ERROR] django.request Internal Server Error: /myblogapi/articles/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: LatestArticlesFeed() takes no arguments
+2024-10-25 15:49:17,246 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/urls.py changed, reloading.
+2024-10-25 15:49:17,595 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 06:48:07,087 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 06:59:21,216 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/myblogapp/models.py changed, reloading.
+2024-10-26 06:59:22,818 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 07:07:31,251 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/mysite/urls.py changed, reloading.
+2024-10-26 07:07:33,401 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 07:08:13,328 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/mysite/urls.py changed, reloading.
+2024-10-26 07:08:13,653 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 07:12:40,859 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/mysite/urls.py changed, reloading.
+2024-10-26 07:12:41,447 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 07:13:12,901 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/mysite/settings.py changed, reloading.
+2024-10-26 07:13:13,494 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 07:22:33,698 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py changed, reloading.
+2024-10-26 07:22:34,870 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 08:04:08,079 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/sitemap.py changed, reloading.
+2024-10-26 08:04:09,753 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 14:03:45,297 [ERROR] django.request Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 16, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 70, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 158, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 167, in _urls
+    loc = f'{protocol}://{domain}{self._location(item)}'
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 113, in _location
+    return self._get('location', item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 87, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 123, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-26 14:10:58,277 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/urls.py changed, reloading.
+2024-10-26 14:11:00,851 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 14:11:02,294 [ERROR] django.request Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 16, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 70, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 158, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 167, in _urls
+    loc = f'{protocol}://{domain}{self._location(item)}'
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 113, in _location
+    return self._get('location', item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 87, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 123, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-26 14:27:09,648 [WARNING] django.request Not Found: /products/latest/feed/
+2024-10-26 14:27:38,844 [ERROR] django.request Internal Server Error: /ru/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 128, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 15, in add_domain
+    if url.startswith('//'):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 137, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+2024-10-26 14:27:39,333 [WARNING] django.request Not Found: /favicon.ico
+2024-10-26 14:29:39,357 [WARNING] django.request Not Found: /articles/latest/feed/
+2024-10-26 14:29:39,727 [WARNING] django.request Not Found: /favicon.ico
+2024-10-26 14:44:31,499 [ERROR] django.request Internal Server Error: /ru/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 128, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 15, in add_domain
+    if url.startswith('//'):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 137, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+2024-10-26 15:54:35,536 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-26 15:56:04,201 [WARNING] django.request Not Found: /
+2024-10-26 15:56:17,875 [ERROR] django.request Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 16, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 70, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 158, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 167, in _urls
+    loc = f'{protocol}://{domain}{self._location(item)}'
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 113, in _location
+    return self._get('location', item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 87, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 123, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-26 15:56:40,094 [WARNING] django.request Not Found: /myblogapp/sitemap.xml
+2024-10-26 15:56:55,331 [WARNING] django.request Not Found: /myblogapi/sitemap.xml
+2024-10-26 15:57:22,123 [ERROR] django.request Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 16, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 70, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 158, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 167, in _urls
+    loc = f'{protocol}://{domain}{self._location(item)}'
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 113, in _location
+    return self._get('location', item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 87, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 123, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:04:57,485 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/views.py changed, reloading.
+2024-10-27 07:04:59,279 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-27 07:05:09,266 [ERROR] django.request Internal Server Error: /sitemap.xml
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 16, in inner
+    response = func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/views.py", line 70, in sitemap
+    urls.extend(site.get_urls(page=page, site=req_site,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 158, in get_urls
+    return self._urls(page, protocol, domain)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 167, in _urls
+    loc = f'{protocol}://{domain}{self._location(item)}'
+                                  ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 113, in _location
+    return self._get('location', item)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 87, in _get
+    return attr(item)
+           ^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/sitemaps/__init__.py", line 123, in location
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:05:19,474 [ERROR] django.request Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 128, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 15, in add_domain
+    if url.startswith('//'):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 137, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:05:43,608 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/views.py changed, reloading.
+2024-10-27 07:05:44,247 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-27 07:06:01,667 [ERROR] django.request Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 128, in get_feed
+    link = add_domain(current_site.domain, link, request.is_secure())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 15, in add_domain
+    if url.startswith('//'):
+       ^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 137, in __wrapper__
+    res = func(*self.__args, **self.__kw)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'products' not found. 'products' is not a valid view function or pattern name.
+2024-10-27 07:06:47,861 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/views.py changed, reloading.
+2024-10-27 07:06:48,361 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-27 07:06:49,824 [ERROR] django.request Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 178, in get_feed
+    self._get_dynamic_attr('item_link', item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 88, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 56, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:14:07,815 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-27 07:14:14,446 [ERROR] django.request Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 178, in get_feed
+    self._get_dynamic_attr('item_link', item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 88, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 56, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:14:16,569 [ERROR] django.request Internal Server Error: /en/shop/products/latest/feed/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 38, in __call__
+    feedgen = self.get_feed(obj, request)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 178, in get_feed
+    self._get_dynamic_attr('item_link', item),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 88, in _get_dynamic_attr
+    return attr(obj)
+           ^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/syndication/views.py", line 56, in item_link
+    return item.get_absolute_url()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py", line 39, in get_absolute_url
+    return reverse("shopapp:product", kwargs={"pk": self.pk})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/urls/resolvers.py", line 729, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'product' not found. 'product' is not a valid view function or pattern name.
+2024-10-27 07:17:07,475 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/models.py changed, reloading.
+2024-10-27 07:17:08,729 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-27 07:17:42,309 [WARNING] django.request Not Found: /
+2024-10-27 07:17:43,359 [WARNING] django.request Not Found: /favicon.ico
+2024-10-27 07:30:10,175 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 06:46:19,765 [WARNING] django.request Not Found: /favicon.ico
+2024-10-28 06:55:25,634 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-28 06:55:27,617 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 06:56:01,447 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 06:57:03,123 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 07:16:14,172 [WARNING] django.request Not Found: /en/admin/shopapp/products/
+2024-10-28 07:32:44,715 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-28 07:32:45,857 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 07:41:45,838 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-28 07:41:47,063 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 07:43:30,756 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py changed, reloading.
+2024-10-28 07:43:31,202 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-28 07:50:02,791 [ERROR] django.request Internal Server Error: /en/admin/shopapp/order/import-orders-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 145, in import_csv
+    save_csv_orders(
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/common.py", line 30, in save_csv_orders
+    Order(**row)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/base.py", line 489, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 215, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'1'": "Order.user" must be a "User" instance.
+2024-10-28 07:50:52,954 [ERROR] django.request Internal Server Error: /en/admin/shopapp/order/import-orders-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.IntegrityError: NOT NULL constraint failed: shopapp_order.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 145, in import_csv
+    save_csv_orders(
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/common.py", line 33, in save_csv_orders
+    Order.objects.bulk_create(orders)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 519, in bulk_create
+    returned_columns = self._batched_insert(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 1318, in _batched_insert
+    inserted_rows.extend(self._insert(
+                         ^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/query.py", line 1301, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/sql/compiler.py", line 1441, in execute_sql
+    cursor.execute(sql, params)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 247, in execute
+    return self._record(self.cursor.execute, sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/debug_toolbar/panels/sql/tracking.py", line 168, in _record
+    return method(sql, params)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 99, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 76, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 80, in _execute
+    with self.db.wrap_database_errors:
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/utils.py", line 85, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/backends/sqlite3/base.py", line 416, in execute
+    return Database.Cursor.execute(self, query, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.IntegrityError: NOT NULL constraint failed: shopapp_order.user_id
+2024-10-28 07:51:51,445 [ERROR] django.request Internal Server Error: /en/admin/shopapp/order/import-orders-csv/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/admin.py", line 145, in import_csv
+    save_csv_orders(
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/import_export/mysite/shopapp/common.py", line 30, in save_csv_orders
+    Order(**row)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/base.py", line 489, in __init__
+    _setattr(self, field.name, rel_obj)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/db/models/fields/related_descriptors.py", line 215, in __set__
+    raise ValueError(
+ValueError: Cannot assign "'1'": "Order.user" must be a "User" instance.
+2024-10-29 05:56:52,710 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:21:23,616 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:24:00,514 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-10-29 06:24:01,861 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:26:09,711 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-10-29 06:26:11,380 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:26:53,316 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-10-29 06:26:54,516 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:28:11,904 [INFO] shopapp.views Rendering shop index
+2024-10-29 06:28:21,599 [WARNING] django.request Not Found: /favicon.ico
+2024-10-29 06:29:25,898 [WARNING] django.request Not Found: /favicon.ico
+2024-10-29 06:29:38,229 [WARNING] django.request Not Found: /favicon.ico
+2024-10-29 06:29:47,279 [WARNING] django.request Not Found: /favicon.ico
+2024-10-29 06:30:30,812 [WARNING] django.request Not Found: /favicon.ico
+2024-10-29 06:33:56,777 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-10-29 06:34:04,953 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:35:09,694 [INFO] shopapp.views Rendering shop index
+2024-10-29 06:42:53,380 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:43:08,611 [WARNING] django.request Not Found: /
+2024-10-29 06:51:33,938 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 06:59:59,297 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.
+2024-10-29 06:59:59,712 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:02:58,674 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/urls.py changed, reloading.
+2024-10-29 07:02:59,049 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:03:09,993 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:11:47,890 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:11:48,459 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:11:53,566 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:12:22,777 [ERROR] django.request Internal Server Error: /en/shop/api/products/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 121, in list
+    return super.list(*args, **kwargs)
+           ^^^^^^^^^^
+AttributeError: type object 'super' has no attribute 'list'
+2024-10-29 07:12:57,256 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:12:57,737 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:16:13,780 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:16:14,742 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:17:50,256 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:22:20,625 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:22:21,334 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:22:22,366 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:22:23,920 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:22:24,973 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:22:25,989 [INFO] shopapp.views Rendering shop index
+2024-10-29 07:28:46,842 [WARNING] django.request Not Found: /ab
+2024-10-29 07:29:04,328 [WARNING] django.request Not Found: /myauth/about-me/
+2024-10-29 07:29:43,584 [WARNING] django.request Not Found: /myauth/about-me/
+2024-10-29 07:30:02,852 [WARNING] django.request Not Found: /myauth/login/
+2024-10-29 07:32:35,866 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/myauth/urls.py changed, reloading.
+2024-10-29 07:32:36,343 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:32:41,119 [WARNING] django.request Not Found: /myauth/login/
+2024-10-29 07:32:42,526 [WARNING] django.request Not Found: /myauth/login/
+2024-10-29 07:43:08,203 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:43:09,999 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 07:45:19,796 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-29 07:45:20,300 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-29 12:42:21,370 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-10-29 12:42:22,955 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-10-30 07:03:17,407 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-10-30 07:03:20,606 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-01 07:04:28,708 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-01 07:04:34,652 [WARNING] django.request Not Found: /favicon.ico
+2024-11-01 07:08:22,674 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-01 07:08:24,204 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-01 07:08:36,056 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-01 07:08:36,766 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-01 07:13:25,295 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-01 07:13:27,057 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-01 07:13:45,317 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-01 07:13:45,839 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 07:32:46,589 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 07:32:50,107 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 07:32:51,611 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 417, in get
+    user = get_object_or_404(User, pk=user_id)
+                             ^^^^
+NameError: name 'User' is not defined
+2024-11-03 07:33:58,733 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 07:33:59,591 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 07:35:33,239 [WARNING] django.request Not Found: /en/shop/users/14/orders/
+2024-11-03 07:38:14,733 [ERROR] django.request Internal Server Error: /en/accounts/about-me/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/edit.py", line 191, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/accounts/views.py", line 138, in get_object
+    return self.request.user.profile
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+2024-11-03 07:39:57,960 [WARNING] django.request Not Found: /en/shop/users/14/orders/
+2024-11-03 08:12:57,818 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 08:12:59,914 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:50:46,540 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 13:50:49,151 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:50:50,673 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 416, in get
+    if self.user is not None:
+       ^^^^^^^^^
+AttributeError: 'UserOrdersListView' object has no attribute 'user'
+2024-11-03 13:51:50,179 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 13:51:51,445 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:52:08,098 [ERROR] django.request Internal Server Error: /en/accounts/about-me/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/edit.py", line 191, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/accounts/views.py", line 138, in get_object
+    return self.request.user.profile
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/utils/functional.py", line 249, in inner
+    return func(self._wrapped, *args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AnonymousUser' object has no attribute 'profile'
+2024-11-03 13:54:54,414 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 13:54:55,888 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:55:48,539 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 13:55:50,138 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:55:51,937 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 417, in get
+    if request.user is not AnonymousUser:
+                           ^^^^^^^^^^^^^
+NameError: name 'AnonymousUser' is not defined
+2024-11-03 13:56:41,696 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 13:56:42,434 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 13:56:43,901 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 417, in get
+    if request.user is not AnonymousUser:
+                           ^^^^^^^^^^^^^
+NameError: name 'AnonymousUser' is not defined
+2024-11-03 13:56:45,421 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 417, in get
+    if request.user is not AnonymousUser:
+                           ^^^^^^^^^^^^^
+NameError: name 'AnonymousUser' is not defined
+2024-11-03 14:03:49,323 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 14:03:50,411 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 14:04:35,631 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 14:04:36,134 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-03 14:05:09,261 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-03 14:05:10,167 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:27:07,278 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 06:27:10,276 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:28:34,853 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 06:28:36,845 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:53:30,205 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 06:53:32,913 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:54:51,243 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-11-04 06:54:53,601 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:55:07,106 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 06:55:17,031 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 06:55:18,769 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 06:57:31,242 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 06:57:33,710 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 06:57:39,704 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 06:57:40,882 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 06:57:48,056 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 06:57:48,743 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 06:58:55,650 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 06:58:57,502 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:00:24,082 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 07:00:27,067 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 07:00:30,404 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 07:01:12,364 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:01:13,479 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 07:15:07,354 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/mysite/settings.py changed, reloading.
+2024-11-04 07:15:10,048 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 07:15:12,207 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 07:15:32,620 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:15:33,458 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 07:15:35,349 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:25:31,986 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-04 07:25:33,864 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-04 07:25:37,373 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:25:44,359 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:26:22,128 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 188, in _get_response
+    self.check_response(response, callback)
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 309, in check_response
+    raise ValueError(
+ValueError: The view shopapp.views.view didn't return an HttpResponse object. It returned None instead.
+2024-11-04 07:26:22,898 [WARNING] django.request Not Found: /favicon.ico
+2024-11-04 07:27:25,478 [WARNING] django.request Not Found: /favicon.ico
+2024-11-05 05:16:48,824 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 05:16:59,642 [WARNING] django.request Not Found: /
+2024-11-05 05:18:21,667 [WARNING] django.request Not Found: /users/3/orders/
+2024-11-05 05:39:06,066 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 05:39:07,681 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 05:39:48,336 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 05:39:48,928 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 05:39:50,029 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    user_cache = orders_data.get("[orders].[user].[id]")
+                 ^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2024-11-05 15:50:00,511 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 15:50:01,359 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 15:52:48,860 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 15:52:49,455 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 15:52:50,012 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data.get(["orders"]["user"]["id"]) == user_id:
+                                                   ~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 15:59:27,564 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 15:59:28,993 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 15:59:34,330 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data(["orders"]["user"]["id"]) == user_id:
+                                               ~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:05:51,586 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:05:52,229 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:05:56,461 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:13:32,820 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:13:34,393 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:13:35,984 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:13:44,870 [ERROR] django.request Internal Server Error: /en/shop/users/2/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:15:23,819 [ERROR] django.request Internal Server Error: /en/shop/users/2/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:15:30,278 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:15:33,086 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:15:34,837 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:15:38,125 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:17:00,514 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:17:01,613 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:17:03,041 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data.get("orders").get("user").get("id") == user_id:
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2024-11-05 16:17:07,919 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data.get("orders").get("user").get("id") == user_id:
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'get'
+2024-11-05 16:19:09,770 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:19:10,092 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:19:42,996 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:19:43,728 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:19:46,894 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data[0]["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~^^^
+KeyError: 0
+2024-11-05 16:20:31,808 [ERROR] django.request Internal Server Error: /en/shop/users/1/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data[0]["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~^^^
+KeyError: 0
+2024-11-05 16:20:37,611 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data[0]["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~^^^
+KeyError: 0
+2024-11-05 16:22:59,511 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data[0]["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~^^^
+KeyError: 0
+2024-11-05 16:27:00,989 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:27:01,707 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:30:13,615 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:30:14,015 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-05 16:30:15,478 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:30:18,103 [ERROR] django.request Internal Server Error: /en/shop/users/3/orders/
+Traceback (most recent call last):
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 69, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/contrib/auth/mixins.py", line 71, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/..venv/lib/python3.12/site-packages/django/views/generic/base.py", line 101, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py", line 420, in get
+    if orders_data is not None and orders_data["orders"]["user"]["id"] == user_id:
+                                   ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+TypeError: list indices must be integers or slices, not str
+2024-11-05 16:33:05,734 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
+2024-11-05 16:33:06,579 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2024-11-06 05:31:40,160 [INFO] django.utils.autoreload Watching for file changes with StatReloader

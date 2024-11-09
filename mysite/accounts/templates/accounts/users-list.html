@@ -1,0 +1,28 @@
+{% extends 'accounts/base.html' %}
+
+{% block title %}
+    Users List
+{% endblock %}
+
+{% block body %}
+        {{ '<h1>Users:</h1>'}}
+        <div>
+            {% if not users %}
+                <h3>Пользователи отсутствуют</h3>
+            {% else %}
+                <ul>
+                    {% for user in users %}
+                        <li>
+                            <div><a href="{% url 'accounts:about_user' pk=user.pk %}">
+                                {{ user.pk }}. UserName: {{ user.username }}</a></div>
+
+                            {% if user.profile.avatar %}
+                                <img src="{{ user.profile.avatar.url }}" alt="{{ user.profile.avatar.name }}">
+                            {% endif %}
+                            <br>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+{% endblock %}

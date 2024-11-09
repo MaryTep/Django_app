@@ -1,0 +1,40 @@
+{% extends 'requestdataapp/base.html' %}
+
+{% block title %}
+    User BIO
+{% endblock %}
+
+{% block body %}
+    <h1>User form</h1>
+
+    <div>
+        <form method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+
+            <button type="submit">Сохранить</button>
+        </form>
+    </div>
+
+    {% if request.POST %}
+        <div>
+            <h2>Предыдущие данные:</h2>
+        </div>
+        <table>
+            <tr>
+                <td>Полное имя</td>
+                <td>{{ request.POST.name }}</td>
+            </tr>
+            <tr>
+                <td>Возраст</td>
+                <td>{{ request.POST.age }}</td>
+            </tr>
+            <tr>
+                <td>Дополнительно</td>
+                <td>
+                    <p>{{ request.POST.bio|linebreaks }}</p>
+                </td>
+            </tr>
+        </table>
+    {% endif %}
+{% endblock %}
