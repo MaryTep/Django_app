@@ -20,4 +20,4 @@ services:
         max-file: "10"
         max-size: "200k"
     volumes:
-      - ./mysite/database:app/database
+      - /home/marytep/PycharmProjects/Python_Django/Django_app/mysite/database:/app/database
