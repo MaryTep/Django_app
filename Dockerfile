@@ -6,9 +6,9 @@ WORKDIR /app
 
 COPY requirements.txt requirements.txt
 
+RUN mkdir -p /app/database
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
-RUN mkdir -p /app/database
 
 COPY mysite .
 
