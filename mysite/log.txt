@@ -2067,3 +2067,5 @@ TypeError: list indices must be integers or slices, not str
 2024-11-05 16:33:05,734 [INFO] django.utils.autoreload /home/marytep/PycharmProjects/Python_Django/python_django/Django_Cache/mysite/shopapp/views.py changed, reloading.
 2024-11-05 16:33:06,579 [INFO] django.utils.autoreload Watching for file changes with StatReloader
 2024-11-06 05:31:40,160 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2025-01-15 15:50:30,182 [INFO] django.utils.autoreload Watching for file changes with StatReloader
+2025-01-15 16:12:44,948 [INFO] django.utils.autoreload Watching for file changes with StatReloader
